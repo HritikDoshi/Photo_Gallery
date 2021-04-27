@@ -1,5 +1,5 @@
 # Photo_Gallery
-Photo gallery🎞📸, place to view your photos.
+Photo gallery🎞, place to view your photos.
 
 This is a simple, short Web Application where you need to 🖱hover(drag your mouse over something) over the small below images and you can see magnified image in the above huge box as shown in image below along with the text indented over it.
 
